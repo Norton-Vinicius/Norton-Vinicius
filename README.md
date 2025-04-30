@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perifl 😁
+## Welcome to my profile 😁
 
  <div>
    <a href="https://github.com/Norton-Vinicius">
